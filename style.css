@@ -10,3 +10,11 @@ body{
 .navbar-brand{
 	font-family:'satisfy',cursive;
 }
+
+#styled_list{
+	font-size: 20px;
+	border-right: 1px solid grey;
+	padding-right:20px;
+	padding-left:20px;
+
+}
