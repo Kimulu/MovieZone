@@ -22,3 +22,20 @@ body{
 
 	background-color: #9fff80;
 }
+.table{
+font-family:'satisfy',cursive;
+}
+
+.thead{
+	border-right: dotted 1.5px black;
+	border-left: dotted 1.5px black;
+	border-bottom:dotted 1.5px black;
+	border-top: dotted 1.5px black;
+}
+.navd{
+	border-right: dashed 1.5px black;
+	border-left: dotted 1.5px black;
+	border-bottom:dotted 1.5px black;
+	border-top: dotted 1.5px black;
+	margin-left:20px;
+}
